@@ -1,0 +1,15 @@
+C:\_dev\4-Começando com Docker e DotNet\Projetos\DockerStarter\ConsoleDockerStarter\bin\Debug\net6.0\ConsoleDockerStarter.exe
+C:\_dev\4-Começando com Docker e DotNet\Projetos\DockerStarter\ConsoleDockerStarter\bin\Debug\net6.0\ConsoleDockerStarter.deps.json
+C:\_dev\4-Começando com Docker e DotNet\Projetos\DockerStarter\ConsoleDockerStarter\bin\Debug\net6.0\ConsoleDockerStarter.runtimeconfig.json
+C:\_dev\4-Começando com Docker e DotNet\Projetos\DockerStarter\ConsoleDockerStarter\bin\Debug\net6.0\ConsoleDockerStarter.dll
+C:\_dev\4-Começando com Docker e DotNet\Projetos\DockerStarter\ConsoleDockerStarter\bin\Debug\net6.0\ConsoleDockerStarter.pdb
+C:\_dev\4-Começando com Docker e DotNet\Projetos\DockerStarter\ConsoleDockerStarter\obj\Debug\net6.0\ConsoleDockerStarter.csproj.AssemblyReference.cache
+C:\_dev\4-Começando com Docker e DotNet\Projetos\DockerStarter\ConsoleDockerStarter\obj\Debug\net6.0\ConsoleDockerStarter.GeneratedMSBuildEditorConfig.editorconfig
+C:\_dev\4-Começando com Docker e DotNet\Projetos\DockerStarter\ConsoleDockerStarter\obj\Debug\net6.0\ConsoleDockerStarter.AssemblyInfoInputs.cache
+C:\_dev\4-Começando com Docker e DotNet\Projetos\DockerStarter\ConsoleDockerStarter\obj\Debug\net6.0\ConsoleDockerStarter.AssemblyInfo.cs
+C:\_dev\4-Começando com Docker e DotNet\Projetos\DockerStarter\ConsoleDockerStarter\obj\Debug\net6.0\ConsoleDockerStarter.csproj.CoreCompileInputs.cache
+C:\_dev\4-Começando com Docker e DotNet\Projetos\DockerStarter\ConsoleDockerStarter\obj\Debug\net6.0\ConsoleDockerStarter.dll
+C:\_dev\4-Começando com Docker e DotNet\Projetos\DockerStarter\ConsoleDockerStarter\obj\Debug\net6.0\refint\ConsoleDockerStarter.dll
+C:\_dev\4-Começando com Docker e DotNet\Projetos\DockerStarter\ConsoleDockerStarter\obj\Debug\net6.0\ConsoleDockerStarter.pdb
+C:\_dev\4-Começando com Docker e DotNet\Projetos\DockerStarter\ConsoleDockerStarter\obj\Debug\net6.0\ConsoleDockerStarter.genruntimeconfig.cache
+C:\_dev\4-Começando com Docker e DotNet\Projetos\DockerStarter\ConsoleDockerStarter\obj\Debug\net6.0\ref\ConsoleDockerStarter.dll

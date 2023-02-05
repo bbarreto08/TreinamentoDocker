@@ -1,0 +1,3 @@
+docker run -it -v barreto:/home/ barreto 
+
+docker run --name nginx -v barreto:/usr/share/nginx/html -d nginx

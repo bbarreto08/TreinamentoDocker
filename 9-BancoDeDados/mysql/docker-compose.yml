@@ -1,0 +1,20 @@
+version: '3.1'
+
+services:
+  db:
+    image: mysql
+    ##image: mariadb
+    environment:
+      - MYSQL_ROOT_PASSWORD=mysql
+      - MYSQL_DATABASE=dockerdefinitivo
+      - MYSQL_USER=app01
+      - MYSQL_PASSWORD=userpass
+    volumes:
+      - mysql_data:/var/lib/mysql
+      - ./scripts/:/docker-entrypoint-initdb.d
+    ports:
+      - 3306:3306
+
+volumes:
+  mysql_data:
+    driver: local

@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+
+  myapp:
+    image: app
+    environment:
+      - prefix=hmg

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eCU7VjCkW7OoZTzImnX2godvfYj2MptRsSsWR8n8PpH/chikqRqH+90Va2GmfWISKyMGZl8KluaYRU6Z26RGCw==",
+  "success": true,
+  "projectFilePath": "C:\\_dev\\4-Começando com Docker e DotNet\\Projetos\\DockerStarter\\ConsoleDockerStarter\\ConsoleDockerStarter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bruno\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}
