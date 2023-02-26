@@ -1,0 +1,8 @@
+services:
+  messageBroker:
+    image: rabbitmq:3.9.28-management-alpine
+    environment:
+      - RABBITMQ_DEFAULT_USER=barreto
+      - RABBITMQ_DEFAULT_PASS=barretoPass
+    ports:
+      - 8000:15672

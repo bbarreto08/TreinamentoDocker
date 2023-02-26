@@ -1,0 +1,37 @@
+version: '3.1'
+
+services:
+
+  postgres_db_service:
+    image: postgres    
+    environment:      
+      - POSTGRES_DB=dockerdefinitivo
+      - POSTGRES_USER=app01
+      - POSTGRES_PASSWORD=userpass
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./scripts/:/docker-entrypoint-initdb.d
+    networks:
+      - db
+
+  postgres_ui_service:
+    image: dpage/pgadmin4
+    environment:
+      - PGADMIN_DEFAULT_EMAIL=BRUNOCBARRETO2012@GMAIL.COM
+      - PGADMIN_DEFAULT_PASSWORD=SUPERSECRET
+    volumes:
+      - pgadmin_data:/var/lib/pgadmin
+    ports: 
+      - 80:80   
+    networks:
+      - db
+
+volumes:
+  postgres_data:
+    driver: local
+  pgadmin_data: 
+    driver: local  
+
+networks:
+  db:
+    driver: bridge

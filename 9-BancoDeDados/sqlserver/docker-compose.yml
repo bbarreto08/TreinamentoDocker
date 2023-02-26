@@ -1,0 +1,21 @@
+version: '3.1'
+
+services:
+
+  sqlserver_db_service:
+    image: mcr.microsoft.com/mssql/server:2022-latest  
+    environment:      
+      - ACCEPT_EULA=Y
+      - MSSQL_SA_PASSWORD=Bb@74089018
+      - MSSQL_PID=Developer
+    ports:
+      - 1433:1433
+    networks:
+      - db
+
+networks:
+  db:
+    driver: bridge
+   
+ 
+
